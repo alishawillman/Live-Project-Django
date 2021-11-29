@@ -264,7 +264,7 @@ urlpatterns = [
 
 {% endblock %}
 ```
-## Details Page
+## Details Page (User Story 4)
 I created a details page that will display all the information for a single Hot Springs from within the database as selected by the user. I created a link for each Hot Springs in order to view the details of that Hot Springs. 
 ####  Details Template
 ```
